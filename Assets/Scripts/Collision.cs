@@ -9,6 +9,7 @@ public class Collision : MonoBehaviour
     //public TextMeshProUGUI PriceEnter;
     public Transform HeadSnake;
     public GameObject Block;
+    //public List<Transform> _tailList;
     private void OnCollisionEnter(UnityEngine.Collision collision) //Столкновение со стеной
     {
         Debug.Log("Столкновение");
@@ -23,6 +24,7 @@ public class Collision : MonoBehaviour
             {
                 Debug.Log("#1");
                 Destroy(this.gameObject);
+                Destroy(HeadSnake.gameObject);
                 Destroy(Block.gameObject);
                 break; //выходим из цикла
                 

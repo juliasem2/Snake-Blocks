@@ -231,7 +231,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68c157ea34ef124459803ec1db044977, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PriceEnter: {fileID: 0}
   HeadSnake: {fileID: 6214116034077533470, guid: 32595e8652ade2449936319063f5b588, type: 3}
   Block: {fileID: 9205397368332375489}
 --- !u!1 &9205397368332375489
@@ -345,6 +344,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68c157ea34ef124459803ec1db044977, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PriceEnter: {fileID: 0}
-  HeadSnake: {fileID: 1618980581196669608, guid: 8ff654db92f8b394792fcef5e7218edd, type: 3}
+  HeadSnake: {fileID: 0}
   Block: {fileID: 9205397368332375489}

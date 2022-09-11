@@ -187,8 +187,8 @@ MonoBehaviour:
     y: 0
     width: 376
     height: 625
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 6}
   m_Panes:
   - {fileID: 6}
@@ -225,9 +225,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 925f0000
-      m_LastClickedID: 24466
-      m_ExpandedIDs: 18fbffff4e5f00005e5f0000745f0000
+      m_SelectedIDs: 12faffff
+      m_LastClickedID: -1518
+      m_ExpandedIDs: 8a9dffff909dffff50b0ffff70baffff6cfaffff88faffffa4faffffc0faffffc2faffff0efbffff18fbffff325f0000485f0000585f0000705f0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -503,9 +503,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -16.147877, y: -109.91248, z: 36.28769}
+    m_Target: {x: 214.86765, y: -359.66068, z: 294.7686}
     speed: 2
-    m_Value: {x: -16.147877, y: -109.91248, z: 36.28769}
+    m_Value: {x: 214.86765, y: -359.66068, z: 294.7686}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -552,13 +552,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.5477092, y: 0.12245123, z: -0.081451215, w: -0.8236962}
+    m_Target: {x: -0.34465316, y: -0.2882781, z: 0.111988835, w: -0.8863835}
     speed: 2
-    m_Value: {x: -0.5477092, y: 0.12245123, z: -0.081451215, w: -0.82369626}
+    m_Value: {x: -0.34480226, y: -0.28693283, z: 0.111465745, w: -0.8867673}
   m_Size:
-    m_Target: 66.59174
+    m_Target: 333.0418
     speed: 2
-    m_Value: 66.59174
+    m_Value: 318.7003
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -661,7 +661,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 5627
+  controlID: 60
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -791,14 +791,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Prefab
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: G:\Unity Projects\Snake_VS_Block
+  m_LastProjectPath: "C:\\Users\\\u042E\u043B\u0435\u0447\u043A\u0430\\Documents\\GitHub\\Snake-Blocks"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 26620000
-    m_LastClickedID: 25126
-    m_ExpandedIDs: 00000000106200001262000000ca9a3bffffff7f
+    m_SelectedIDs: 0a620000
+    m_LastClickedID: 25098
+    m_ExpandedIDs: 00000000f4610000f661000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -826,7 +826,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000106200001262000000ca9a3bffffff7f
+    m_ExpandedIDs: 00000000f4610000f6610000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -851,9 +851,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 925f0000
-    m_LastClickedInstanceID: 24466
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: 12faffff
+    m_LastClickedInstanceID: -1518
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c623000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -878,7 +878,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 62}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 261
@@ -901,8 +901,8 @@ MonoBehaviour:
     y: 0
     width: 386
     height: 931
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
