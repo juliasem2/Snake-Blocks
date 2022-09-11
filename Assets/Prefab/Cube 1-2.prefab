@@ -114,7 +114,7 @@ MonoBehaviour:
   m_fontColor32:
     serializedVersion: 2
     rgba: 4279045585
-  m_fontColor: {r: 0.9622642, g: 0.92141336, b: 0.92141336, a: 1}
+  m_fontColor: {r: 0.09433961, g: 0.085884646, b: 0.085884646, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -217,8 +217,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameObgect: {fileID: 3785450733883544575}
-  Min: 16
-  Max: 25
+  Min: 1
+  Max: 2
 --- !u!114 &6909030714428412533
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -231,7 +231,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68c157ea34ef124459803ec1db044977, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PriceEnter: {fileID: 0}
   HeadSnake: {fileID: 1618980581196669608, guid: 8ff654db92f8b394792fcef5e7218edd, type: 3}
   Block: {fileID: 9205397368332375489}
 --- !u!1 &9205397368332375489
@@ -248,7 +247,7 @@ GameObject:
   - component: {fileID: 9205397368332375495}
   - component: {fileID: 1931221000596307760}
   m_Layer: 0
-  m_Name: Cube 10-15
+  m_Name: Cube 1-2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -298,7 +297,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: cf470d2cd89216542b5294ac3308215a, type: 2}
+  - {fileID: 2100000, guid: 6bc5d42e5991e6a41bddc3f86a1864c7, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -345,6 +344,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68c157ea34ef124459803ec1db044977, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PriceEnter: {fileID: 0}
   HeadSnake: {fileID: 1618980581196669608, guid: 8ff654db92f8b394792fcef5e7218edd, type: 3}
   Block: {fileID: 9205397368332375489}

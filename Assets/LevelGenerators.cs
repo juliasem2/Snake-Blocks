@@ -24,7 +24,7 @@ public class LevelGenerators : MonoBehaviour
             Vector3 position = new Vector3(0, 0, DistanceBetweenRows * i);
             Quaternion rotation = Quaternion.Euler(0, 0, 0);
             GameObject body = Instantiate(RowsPrefabs[prefabIndex], position, rotation, transform);
-            body.GetComponent<Collision>().HeadSnake = HeadSnake.transform;
+            //body.GetComponent<Collision>().HeadSnake = HeadSnake.transform;
 
         }
     }
