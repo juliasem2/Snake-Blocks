@@ -140,7 +140,7 @@ GameObject:
   - component: {fileID: 94711611}
   - component: {fileID: 94711610}
   - component: {fileID: 94711609}
-  - component: {fileID: 94711613}
+  - component: {fileID: 94711614}
   m_Layer: 0
   m_Name: Plane
   m_TagString: Untagged
@@ -228,7 +228,7 @@ Transform:
   m_Father: {fileID: 406316236}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &94711613
+--- !u!114 &94711614
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -237,7 +237,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 94711607}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f1ff6e112026e0244bea248180d0d427, type: 3}
+  m_Script: {fileID: 11500000, guid: 8551fc4d3c722fc45b9c4dc26c871f45, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   RowsPrefabs:
@@ -1137,7 +1137,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9205397368332375494, guid: 7221554ced29ef64589b3ba4a86b8ad9, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.7732531
+      value: -3.73
       objectReference: {fileID: 0}
     - target: {fileID: 9205397368332375494, guid: 7221554ced29ef64589b3ba4a86b8ad9, type: 3}
       propertyPath: m_LocalPosition.y
